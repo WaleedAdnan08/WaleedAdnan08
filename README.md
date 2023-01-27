@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedadnan08&label=Profile%20views&color=0e75b6&style=flat" alt="waleedadnan08" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently studying **Software Engineering**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **Web Developement**
 
-- 👯 I’m looking to collaborate on **MERN Stack**
-
-- 🤝 I’m looking for help with **MERN Stack**
-
-- 💬 Ask me about **bootstrap,C++**
-
-- 📫 How to reach me **waleedadnansiddiqi08@gmail.com**
+- 💬 Ask me about **Javascript, React, C++**
 
 - ⚡ Fun fact **Game Enthusiast**
 
