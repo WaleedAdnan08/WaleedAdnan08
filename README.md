@@ -3,16 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedadnan08&label=Profile%20views&color=0e75b6&style=flat" alt="waleedadnan08" /> </p>
 
-- 🔭 I’m currently studying **Software Engineering**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Web Developement**
+- 🌱 I’m currently learning **REACT**
 
-- 💬 Ask me about **Javascript, React, C++**
+- 👯 I’m looking to collaborate on **MERN Stack**
+
+- 🤝 I’m looking for help with **MERN Stack**
+
+- 💬 Ask me about **bootstrap,C++**
+
+- 📫 How to reach me **waleedadnansiddiqi08@gmail.com**
 
 - ⚡ Fun fact **Game Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/waleed-adnan-4587111b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waleed-adnan-4587111b1" height="30" width="40" /></a>
+<a href="https://fb.com/waleed adnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waleed adnan" height="30" width="40" /></a>
+<a href="https://instagram.com/wal.___.eed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wal.___.eed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
