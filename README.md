@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C++, Javascript, Bootstrap, Data Structures**
+- 💬 Ask me about **C++, Python, Javascript, Bootstrap, Data Structures**
 
 - 📫 Reach me at **waleedadnansiddiqi08@gmail.com**
 
